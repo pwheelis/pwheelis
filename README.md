@@ -1,5 +1,26 @@
 - 👋 Hi, I’m @pwheelis
 - 🌱 Budding data and business intelligence analyst
+
+  This portfolio highlights my journey learning data and business intelligence analysis processes and tools.
+----------------------------------------------------------------------------------------------------------------
+  Certifications
+  
+- https://www.coursera.org/account/accomplishments/specialization/certificate/EB7TMJH89XVT
+- https://www.coursera.org/account/accomplishments/professional-cert/certificate/KLF5UDHGUSP7
+----------------------------------------------------------------------------------------------------------------  
+
+Tools
+
+- Microsoft Excel
+- Google Sheets
+- SQL
+- MySQL
+- PostgreSQl
+- Google BigQuery
+- RStudio
+- Tableau
+--------------------------------------------------------------------------------------------------------------
+
 - 📫 How to reach me - LinkedIn https://www.linkedin.com/in/patriciawheelis
 
 <!---
