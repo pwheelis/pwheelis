@@ -6,9 +6,11 @@
   Certifications
   
 - Data Analysis and Visualization Foundations
-  https://www.coursera.org/account/accomplishments/specialization/certificate/EB7TMJH89XVT
+https://www.coursera.org/account/accomplishments/specialization/certificate/EB7TMJH89XVT
+
+  
 - IBM Business Intelligence (BI) Analyst
-  https://www.coursera.org/account/accomplishments/professional-cert/certificate/KLF5UDHGUSP7
+https://www.coursera.org/account/accomplishments/professional-cert/certificate/KLF5UDHGUSP7
 ----------------------------------------------------------------------------------------------------------------  
 
 Tools
