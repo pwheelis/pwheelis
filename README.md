@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pwheelis
-- 🌱 I’m currently learning project management methodologies and SQL
-- 📫 How to reach me tricia.wheelis@gmail.com
+- 🌱 Budding data and business intelligence analyst
+- 📫 How to reach me - LinkedIn https://www.linkedin.com/in/patriciawheelis
 
 <!---
 pwheelis/pwheelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
